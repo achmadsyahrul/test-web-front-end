@@ -1,6 +1,6 @@
 # Test Web Front End - Code.id Academy
 
-Repo ini berisi hasil uji saya yang dilakukan oleh Code.id Academy. Karena uji kemampuan front end, maka hanya UI tanpa proses atau interaksi apa pun oleh pengguna.
+This repo contains the results of my tests conducted by Code.id Academy. Due to front end capability test, it's just UI without any process or interaction by user.
 
 ## Built With
 
